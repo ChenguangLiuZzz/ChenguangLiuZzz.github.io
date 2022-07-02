@@ -4,55 +4,50 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Chenguang Liu (刘晨光)
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: chenguang.liu@warwick.ac.uk
+    phone: #
+    timezone: #
+    citizenship: #
+    website: #blog.webjeda.com #do not add http://
+    linkedin: #
+    xing: #alandoe
+    github: #sharu725
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    gitlab: #
+    bitbucket: #
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Basketball
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Photography
         link:
 
 career-profile:
-    title: Career Profile
+    title: Biography
     summary: |
-      Test Test
+      Chenguang Liu received the B.E. degree in software engineering from the Dalian University of Technology, Dalian, China, in 2016, and the M.S. degree in advanced computer science from The University of Manchester, U.K., in 2017. 
+      He is currently working toward the Ph.D. degree with the University of Warwick, Coventry, U.K. His research interests include deep learning, wireless communications, and signal detection.
 education:
     - degree: MSc in Computer Science
       university: University of London
