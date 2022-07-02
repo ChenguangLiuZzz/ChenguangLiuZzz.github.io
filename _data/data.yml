@@ -49,7 +49,7 @@ career-profile:
       Chenguang Liu received the B.E. degree in software engineering from the Dalian University of Technology, Dalian, China, in 2016, and the M.S. degree in advanced computer science from The University of Manchester, U.K., in 2017. 
       He is currently working toward the Ph.D. degree with the University of Warwick, Coventry, U.K. His research interests include deep learning, wireless communications, and signal detection.
 education:
-  - degree: Phd candidate
+    - degree: Phd candidate
       university: University of Warwick
       time: 2019 - Present
       details:
