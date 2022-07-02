@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: chenguang.liu@warwick.ac.uk
-    phone: #
+    phone:
     timezone: #
     citizenship: #
     website: #blog.webjeda.com #do not add http://
@@ -131,25 +131,22 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Deep learning based detection for communications systems with radar interference"
+        link: "https://doi.org/10.1109/TVT.2022.3158692"
+        authors: Chenguang Liu, Yunfei Chen, Shuang-Hua Yang
+        conference: "IEEE Transactions on Vehicular Technology, 2022"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Signal detection with co-channel interference using deep learning"
+        link: "https://doi.org/10.1016/j.phycom.2021.101343"
+        authors: Chenguang Liu, Yunfei Chen, Shuang-Hua Yang
+        conference: Physical Communication, 2021
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Knowledge distillation based semantic communication for multiple users"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Chenguang Liu, Yuxin Zhou, Yunfei Chen, Shuang-Hua Yang
+        conference: "IEEE Transactions on Communications (Under review)"
 
 skills:
     title: Skills &amp; Proficiency
@@ -174,4 +171,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Copyright © 2019-2022 Chenguang Liu. All rights reserved.
