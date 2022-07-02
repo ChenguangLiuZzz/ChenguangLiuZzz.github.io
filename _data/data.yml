@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Biography
     summary: |
-      Hi, I am Chenguang Liu, currently pursuing my PhD degree with University of Warwick. I was supervised by Prof. Yunfei Chen (UoW) and Prof. Shuang-Hua Yang (SUSTech). I received the B.E. degree in software engineering from the Dalian University of Technology, Dalian, China, in 2016, and the M.S. degree in advanced computer science from The University of Manchester, U.K., in 2017. 
+      Hi, I am Chenguang Liu, currently pursuing my PhD degree with University of Warwick. I was supervised by <a href="https://warwick.ac.uk/fac/sci/eng/people/yunfei_chen">Prof. Yunfei Chen</a> (UoW) and <a href="https://www.sustech.edu.cn/zh/faculties/yangshuanghua-2.html">Prof. Shuang-Hua Yang</a> (SUSTech). I received the B.E. degree in software engineering from the Dalian University of Technology, Dalian, China, in 2016, and the M.S. degree in advanced computer science from The University of Manchester, U.K., in 2017. 
       
       My research interests include deep learning, wireless communications, semantic communication and signal detection.
 education:
