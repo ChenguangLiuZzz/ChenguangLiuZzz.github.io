@@ -13,6 +13,7 @@ I am a Postdoctoral Research Associate at Durham University, specializing in **a
 🔥News
 ======
 - *2025.10.10* our paper "[Mixed Near-and Far-field Integrated Sensing and Communications With Multiple Targets and Users](https://ieeexplore.ieee.org/abstract/document/11199344)" is accepted in *IEEE Transactions on Vehicular Technology*. 
+- *2025.10.08* I am happy to take the interview from the [Voices from the Lab](https://cheddarhub.org/blog/voices-from-the-lab-chenguang-liupost-doctoral-research-associate-electrical-power-node-in-the-department-of-engineering/)
 - *2025.10.06* I have successfully obtained **Associate Fellowship of the Higher Education Academy (AFHEA)**.
 - *2025.08.03* I presented our recent work "Federated Knowledge Distillation for Hybrid Quantum-Classical End-to-End Communications: An Initial Study" in *2025 IEEE/CIC ICCC Shanghai*.  
 - *2024.03.01* I joined Durham University as a Postdoctoral Research Associate in UK.
