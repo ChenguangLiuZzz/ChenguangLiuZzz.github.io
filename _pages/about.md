@@ -13,7 +13,7 @@ I am a Postdoctoral Research Associate at Durham University, specializing in **a
 🔥News
 ======
 - *2025.10.10* One paper"[Mixed Near-and Far-field Integrated Sensing and Communications With Multiple Targets and Users](https://ieeexplore.ieee.org/abstract/document/11199344)" is accepted in *IEEE Transactions on Vehicular Technology*. 
-- *2025.10.08* I am happy to take the interview from the [Voices from the Lab](https://cheddarhub.org/blog/voices-from-the-lab-chenguang-liupost-doctoral-research-associate-electrical-power-node-in-the-department-of-engineering/)
+- *2025.10.08* I am happy to take the interview from the CHEDDAR Hub [Voices from the Lab](https://cheddarhub.org/blog/voices-from-the-lab-chenguang-liupost-doctoral-research-associate-electrical-power-node-in-the-department-of-engineering/).
 - *2025.10.06* I have successfully obtained **Associate Fellowship of the Higher Education Academy (AFHEA)**.
 - *2025.08.03* I presented our recent work "[Federated Knowledge Distillation for Hybrid Quantum-Classical End-to-End Communications: An Initial Study](https://ieeexplore.ieee.org/abstract/document/11147223)" in *2025 IEEE/CIC ICCC Shanghai*.  
 - *2024.03.01* I joined Durham University as a Postdoctoral Research Associate in UK.
@@ -37,8 +37,8 @@ I am a Postdoctoral Research Associate at Durham University, specializing in **a
 📄 Project Experience
 ======
 - *2024.03 - present* Key Researcher, EPSRC/DSIT [CHEDDAR](https://cheddarhub.org/) project (funding over £ 15M), in close collaboration with Imperial College London, University of Glasgow, York, Leeds, and Cranfield. 
-  - *2024.03 - 2025.03*, "Cloud Native Networked Control Systems and Integration within Digital Twins".
   - *2025.04 - present*, "Integration of AI and Communication for Energy-Efficient Intelligent Transportation Systems".
+  - *2024.03 - 2025.03*, "Cloud Native Networked Control Systems and Integration within Digital Twins".
 - *2022 - 2023* Key Researcher, Oracle for Research Grant UK project "Collaborative 3D Object Detection for Vehicular Communications". 
 
 
@@ -54,9 +54,9 @@ I am a Postdoctoral Research Associate at Durham University, specializing in **a
 📚Teaching Experience
 ======
 - *2025.10 - present* MSc Self-Learning Session in Communications Networks. 
-  - Collaborated Lecturer: Dr. [Roy Simorangkir](https://www.durham.ac.uk/staff/roy-b-simorangkir/).
+  - Collaborated Lecturer: [Dr. Roy Simorangkir](https://www.durham.ac.uk/staff/roy-b-simorangkir/).
 - *2024.12 - 2025.03* MSc Self-Learning Session in Communications Networks. 
-  - Collaborated Lecturer: Dr. [Aissa Ikhlef](https://www.durham.ac.uk/staff/aissa-ikhlef/).
+  - Collaborated Lecturer: [Dr. Aissa Ikhlef](https://www.durham.ac.uk/staff/aissa-ikhlef/).
 
 🎖Honors and Awards 
 ======
