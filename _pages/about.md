@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Research Associate at Durham University, specializing in **applied AI and robust wireless connected systems**. My research focuses on developing intelligent, energy-efficient and reslient solutions to address wireless and AI uncertainty in **cooperative autonomous driving systems**, **semantic communications**, and **connected digital twin systems**.
+I am a Postdoctoral Research Associate at Durham University (*2024.03 - present*), specializing in **applied AI and robust wireless connected systems**. My research focuses on developing intelligent, energy-efficient and reslient solutions to address wireless and AI uncertainty in **cooperative autonomous driving systems**, **semantic communications**, and **connected digital twin systems**.
 
 🔥News
 ======
@@ -37,8 +37,8 @@ I am a Postdoctoral Research Associate at Durham University, specializing in **a
 📄 Project Experience
 ======
 - *2024.03 - present* Key Researcher, EPSRC/DSIT [CHEDDAR](https://cheddarhub.org/) project (funding over £ 15M), in close collaboration with Imperial College London, University of Glasgow, York, Leeds, and Cranfield. 
-  - *2025.04 - present*, "Integration of AI and Communication for Energy-Efficient Intelligent Transportation Systems".
-  - *2024.03 - 2025.03*, "Cloud Native Networked Control Systems and Integration within Digital Twins".
+  - *2025.04 - present*, "Integration of AI and Communication for Energy-Efficient Intelligent Transportation Systems", collaborated with [Dr. Huijun Tang](https://www.durham.ac.uk/staff/huijun-tang/), [Dr. Zhuangkun Wei](https://www.durham.ac.uk/staff/zhuangkun-wei/).
+  - *2024.03 - 2025.03*, "Cloud Native Networked Control Systems and Integration within Digital Twins", collaborated with [Dr. Aissa Ikhlef](https://www.durham.ac.uk/staff/aissa-ikhlef/), [Dr. Gagangeet Aujla](https://www.durham.ac.uk/staff/gagangeet-s-aujla/), [Dr. Anish Jindal](https://www.durham.ac.uk/staff/anish-jindal/), [Dr. Zhuangkun Wei](https://www.durham.ac.uk/staff/zhuangkun-wei/), [Massud Tota Khel](https://www.durham.ac.uk/staff/ahmad-m-tota-khel/), [Amritpal Singh](https://www.northumbria.ac.uk/about-us/our-staff/s/amritpal-singh/).
 - *2022 - 2023* Key Researcher, Oracle for Research Grant UK project "Collaborative 3D Object Detection for Vehicular Communications". 
 
 
